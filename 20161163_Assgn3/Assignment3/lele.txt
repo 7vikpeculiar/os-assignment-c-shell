@@ -1,0 +1,7 @@
+a.out
+final
+lele.txt
+main.c
+Makefile
+proc_struct.c
+README
